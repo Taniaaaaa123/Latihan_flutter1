@@ -40,25 +40,25 @@ class _MyHomeState extends State<MyHome> {
                         "https://www.masakapahariini.com/wp-content/uploads/2023/08/bebek-bakar-500x300.jpeg")),
               ),
               ListTile(
-                title: Text("BurgerKing"),
-                subtitle: Text("22 Oktober 2024"),
+                title: Text("Chicken Teriyaki Rice Bowl"),
+                subtitle: Text("19 Oktober 2024"),
                 leading: Image(
                     image: NetworkImage(
-                        "https://png.pngtree.com/png-clipart/20231024/original/pngtree-halloween-burger-with-bbq-sauce-and-potatoes-angle-view-png-image_13404394.png")),
+                        "https://img.okezone.com/content/2023/07/04/298/2841145/resep-chicken-teriyaki-rice-bowl-ala-restoran-super-nikmat-00Ce8GVxjz.jpg")),
               ),
               ListTile(
-                title: Text("BurgerKing"),
-                subtitle: Text("22 Oktober 2024"),
+                title: Text("chicken steak crispy"),
+                subtitle: Text("18 Oktober 2024"),
                 leading: Image(
                     image: NetworkImage(
-                        "https://png.pngtree.com/png-clipart/20231024/original/pngtree-halloween-burger-with-bbq-sauce-and-potatoes-angle-view-png-image_13404394.png")),
+                        "https://radartasiktv.disway.id/upload/216901c8850d5c038001428783918f4a.jpeg")),
               ),
               ListTile(
-                title: Text("BurgerKing"),
-                subtitle: Text("22 Oktober 2024"),
+                title: Text("Salad Buah"),
+                subtitle: Text("17 Oktober 2024"),
                 leading: Image(
                     image: NetworkImage(
-                        "https://png.pngtree.com/png-clipart/20231024/original/pngtree-halloween-burger-with-bbq-sauce-and-potatoes-angle-view-png-image_13404394.png")),
+                        "https://akcdn.detik.net.id/visual/2022/06/23/cara-membuat-salad-buah-yang-enak-dan-praktis_43.jpeg?w=720&q=90")),
               ),
               ListTile(
                 title: Text("BurgerKing"),
