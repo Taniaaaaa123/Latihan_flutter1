@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'home.dart';
+import 'button.dart';
 
-//ini kode yang akan pertama kali dijalankan oleh flutter
+// Ini adalah kode yang akan pertama kali dijalankan oleh Flutter
 void main() {
   runApp(MyApp());
 }
@@ -12,6 +12,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: MyHome());
+    return MaterialApp(
+      title: 'My Application',
+      home: Button(), // Menggunakan Button dengan huruf kapital
+    );
   }
 }

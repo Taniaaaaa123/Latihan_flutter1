@@ -6,7 +6,7 @@ class Chicken extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: AppBar(title: Text("chicken Teriyaki")),
+        appBar: AppBar(title: Text("Chicken Teriyaki")),
         body: Column(
           children: [
             Image(
